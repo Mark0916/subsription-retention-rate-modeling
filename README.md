@@ -5,5 +5,5 @@ The goal of this exercise is to create a model that predicts monthly retention r
 2. For each price point, what percentage of users is still subscribed after at least 12 months?
 3. How do user country and source affect subscription retention rate?
 4. How would you use these findings to improve the company revenue?
-
  
+text source: A Collection of Take Home Data Science Challenges by Data Science Bootcamps
